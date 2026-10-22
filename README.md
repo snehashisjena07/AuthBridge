@@ -1,4 +1,4 @@
-#AuthBridge – SSO Stub
+AuthBridge – SSO Stub
 
 A lightweight Single Sign-On (SSO) stub service for simulating authentication flows and testing login integrations.
 
